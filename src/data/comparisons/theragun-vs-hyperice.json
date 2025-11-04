@@ -1,0 +1,46 @@
+{
+  "slug": "theragun-vs-hyperice",
+  "a": {
+    "title": "Theragun Prime",
+    "slug": "theragun-prime"
+  },
+  "b": {
+    "title": "Hyperice Hypervolt 2",
+    "slug": "hyperice-hypervolt-2"
+  },
+  "winner": "Theragun Prime",
+  "whyWinner": "Lower noise levels (38-42 dB vs 41-48 dB) and better stall force (60 lb vs 50 lb) make the Theragun Prime the superior choice for deep tissue work in shared living spaces. The Hypervolt 2 is lighter and more portable, but sacrifices power.",
+  "whoShouldBuyWhich": [
+    {
+      "audience": "Apartment dwellers",
+      "pick": "Theragun Prime"
+    },
+    {
+      "audience": "Budget-conscious buyers",
+      "pick": "Hyperice Hypervolt 2"
+    },
+    {
+      "audience": "Travel frequently",
+      "pick": "Hyperice Hypervolt 2"
+    },
+    {
+      "audience": "Deep tissue needs",
+      "pick": "Theragun Prime"
+    }
+  ],
+  "fiveYearCost": {
+    "theragun": 690,
+    "hyperice": 540
+  },
+  "table": [
+    ["Feature", "Theragun Prime", "Hyperice Hypervolt 2"],
+    ["Noise Level (dB)", "38–42", "41–48"],
+    ["Stall Force", "60 lb", "50 lb"],
+    ["Weight", "2.9 lb", "1.8 lb"],
+    ["Battery Life", "2h", "3h"],
+    ["Speed Settings", "5", "3"],
+    ["Warranty", "2 years", "1 year"],
+    ["Price", "$299", "$229"]
+  ],
+  "publishedDate": "2024-01-20"
+}

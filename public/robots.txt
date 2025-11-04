@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dillonpatterson.github.io/honest-picks-co/sitemap.xml

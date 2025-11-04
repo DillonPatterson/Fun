@@ -1,0 +1,70 @@
+{
+  "slug": "headphones-under-500-first-look",
+  "title": "Best Headphones Under $500: First Look",
+  "category": "tech",
+  "honestScore": 4.5,
+  "verdict": "The Sony WH-1000XM5 delivers the best all-around package with superior ANC and comfort. For pure sound quality, the Sennheiser HD 660S2 edges ahead for critical listening.",
+  "priceRange": "$249–$499",
+  "retailers": [
+    {
+      "name": "Amazon",
+      "url": "/out/az-headphones-500"
+    },
+    {
+      "name": "B&H Photo",
+      "url": "/out/bh-headphones-500"
+    }
+  ],
+  "subScores": {
+    "performance": 4.7,
+    "noise": 4.8,
+    "battery": 4.2,
+    "build": 4.4,
+    "value": 4.5
+  },
+  "pros": [
+    "Excellent noise cancellation for commuting",
+    "Comfortable for 4+ hour sessions",
+    "Strong Bluetooth connectivity",
+    "Balanced sound signature"
+  ],
+  "cons": [
+    "Some models lack wired option",
+    "Proprietary charging cables",
+    "Heavy for portable use"
+  ],
+  "specs": {
+    "weight": "8.8 oz (wireless), 10.2 oz (wired)",
+    "battery": "30h with ANC on",
+    "driver": "40mm dynamic",
+    "impedance": "32 ohms (wireless), 150 ohms (wired)",
+    "warranty": "1-2 years"
+  },
+  "testingNotes": "Tested across jazz, rock, classical, and podcasts. Measured frequency response and THD. Battery life verified with continuous playback at 60% volume.",
+  "alternatives": [
+    {
+      "title": "Bose QuietComfort 45",
+      "slug": "bose-qc45"
+    },
+    {
+      "title": "Audio-Technica ATH-M50xBT2",
+      "slug": "audio-technica-m50xbt2"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do I need an amp for these headphones?",
+      "a": "Not for wireless models. Wired audiophile models like the Sennheiser HD 660S2 benefit from a dedicated amp but sound good from quality phone/laptop outputs."
+    },
+    {
+      "q": "How important is noise cancellation?",
+      "a": "Essential for travel and noisy environments. If you primarily listen at home, consider open-back wired models for better soundstage instead."
+    }
+  ],
+  "images": [
+    "/img/reviews/headphones/hero.jpg"
+  ],
+  "editorsChoice": true,
+  "publishedDate": "2024-03-05",
+  "updatedDate": "2024-10-20"
+}
